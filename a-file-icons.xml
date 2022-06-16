@@ -12,7 +12,6 @@
     <option name="isThemedColorEnabled" value="true" />
     <option name="themedColor" value="ff85c0" />
     <option name="hasBigIcons" value="true" />
-    <option name="customIconSize" value="19" />
     <option name="isLowPowerMode" value="false" />
   </component>
 </application>
