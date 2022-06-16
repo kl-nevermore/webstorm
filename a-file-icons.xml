@@ -2,7 +2,6 @@
   <component name="AtomFileIconsConfig">
     <option name="accentColorEnabled" value="true" />
     <option name="enabledPsiIcons" value="false" />
-    <option name="lowPowerMode" value="false" />
     <option name="themedColorEnabled" value="true" />
     <option name="monochromeColor" value="546e7a" />
     <option name="isEnabledPsiIcons" value="false" />
@@ -12,6 +11,5 @@
     <option name="isThemedColorEnabled" value="true" />
     <option name="themedColor" value="ff85c0" />
     <option name="hasBigIcons" value="true" />
-    <option name="isLowPowerMode" value="false" />
   </component>
 </application>
