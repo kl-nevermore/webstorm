@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="clg" value="console.log('$PARAM$')" description="console" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
