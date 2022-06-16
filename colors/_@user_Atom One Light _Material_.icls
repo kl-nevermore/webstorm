@@ -4,7 +4,7 @@
     <property name="created">2022-06-15T14:50:00</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-06-15T15:34:41</property>
+    <property name="modified">2022-06-16T10:27:23</property>
     <property name="originalScheme">Atom One Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -697,7 +697,6 @@
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
         <option name="FOREGROUND" value="4078f2" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
@@ -1315,7 +1314,6 @@
     <option name="JS.GLOBAL_FUNCTION">
       <value>
         <option name="FOREGROUND" value="c18401" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
@@ -3689,7 +3687,6 @@
     <option name="TS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="50a14e" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="TS.PRIM_TYPE">
